@@ -82,6 +82,10 @@ $(function() {
         asNavFor: '.slide-container',
     })
 
+    
+    $('.btn-menu').click(function(){
+        $('header').hide();
+    })
 
 
 
