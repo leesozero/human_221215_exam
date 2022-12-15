@@ -365,9 +365,11 @@ header .sns a:hover{
     color: #fff;
     border-radius: 50%;
     cursor: pointer;
+    z-index: 9999;
 }
 
 #btn-close{
     position:absolute;
+    z-index: 9999;
 }
 /* ------------------- 메뉴버튼 끝---------------------- */
